@@ -2,16 +2,16 @@
 
 ## Оглавление  
 [1. Описание проекта](https://github.com/Mekhty111/SF_DS_homework/blob/main/project_0/README.md)  
-[2. Какой кейс решаемhttps://github.com/Mekhty111/SF_DS_homework/blob/main/project_0/README.md)  
+[2. Какой кейс решаем](https://github.com/Mekhty111/SF_DS_homework/blob/main/project_0/README.md)  
 [3. Краткая информация о данных](https://github.com/Mekhty111/SF_DS_homework/blob/main/project_0/README.md)  
-[4. Этапы работы над проектомhttps://github.com/Mekhty111/SF_DS_homework/blob/main/project_0/README.md)  
+[4. Этапы работы над проектом](https://github.com/Mekhty111/SF_DS_homework/blob/main/project_0/README.md)  
 [5. Результат](https://github.com/Mekhty111/SF_DS_homework/blob/main/project_0/README.md)    
 [6. Выводы](https://github.com/Mekhty111/SF_DS_homework/blob/main/project_0/README.md) 
 
 ### Описание проекта    
 Угадать загаданное компьютером число за минимальное число попыток.
 
-:arrow_up:[к оглавлению](_)
+:arrow_up:[к оглавлению](https://github.com/Mekhty111/SF_DS_homework/blob/main/project_0/README.md)
 
 
 ### Какой кейс решаем?    
